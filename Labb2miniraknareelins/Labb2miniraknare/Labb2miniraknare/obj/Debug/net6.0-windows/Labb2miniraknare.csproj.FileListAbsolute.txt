@@ -1,0 +1,17 @@
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\bin\Debug\net6.0-windows\Labb2miniraknare.exe
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\bin\Debug\net6.0-windows\Labb2miniraknare.deps.json
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\bin\Debug\net6.0-windows\Labb2miniraknare.runtimeconfig.json
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\bin\Debug\net6.0-windows\Labb2miniraknare.dll
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\bin\Debug\net6.0-windows\Labb2miniraknare.pdb
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.csproj.AssemblyReference.cache
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.Form1.resources
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.csproj.GenerateResource.cache
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.AssemblyInfoInputs.cache
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.AssemblyInfo.cs
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.csproj.CoreCompileInputs.cache
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.dll
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\refint\Labb2miniraknare.dll
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.pdb
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\Labb2miniraknare.genruntimeconfig.cache
+C:\Users\Elins Dator\source\repos\Labb2miniraknare\Labb2miniraknare\obj\Debug\net6.0-windows\ref\Labb2miniraknare.dll
